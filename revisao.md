@@ -47,3 +47,23 @@ e “enchimento acadêmico”.
 Prompt 04
 Revise os parágrafos em que “cada parágrafo deve justificar sua existência tecnicamente”.
 A melhoria não deve ser lexical, deve ser estrutural, argumentativa e de densidade científica.
+
+
+pronto 05
+Refine o texto acadêmico buscando maior maturidade científica, densidade técnica e naturalidade argumentativa. Preserve integralmente o contexto, autoria, evidências e significado original do conteúdo. Não transforme o texto em algo artificialmente rebuscado, promocional ou genérico.
+
+Ao revisar cada seção, evite introduções estruturais padronizadas ou frases que apenas anunciam o conteúdo do tópico. A entrada dos parágrafos deve ocorrer já dentro do contexto técnico relevante, incorporando informações úteis, implicações, evidências, decisões metodológicas, limitações ou comportamentos observados. O texto deve iniciar cada tópico de forma contextualizada e intelectualmente contínua, sem parecer segmentado artificialmente.
+
+Substitua aberturas genéricas como “Nesta seção”, “A seguir”, “Com o objetivo de”, “É importante destacar” ou equivalentes por construções semanticamente integradas ao fluxo argumentativo do artigo. Evite que os parágrafos pareçam independentes ou mecanicamente introduzidos.
+
+Aumente a precisão terminológica e a qualidade argumentativa do texto. Reforce relações entre problema, ação, evidência, consequência e interpretação técnica sempre que essas relações estiverem implícitas ou pouco claras. Priorize clareza científica, coerência metodológica e profundidade analítica, evitando explicações óbvias para leitores especialistas.
+
+Melhore a fluidez entre parágrafos e seções, reduzindo rupturas artificiais no raciocínio. As transições devem ocorrer de maneira natural e implícita, sem excesso de conectivos previsíveis ou construções escolares. O texto deve transmitir continuidade intelectual e domínio técnico do tema.
+
+Elimine redundâncias, repetições conceituais e frases sem contribuição analítica real. Cada parágrafo deve possuir propósito técnico claro e contribuir efetivamente para o avanço da argumentação científica.
+
+Evite padrões típicos de textos gerados por IA, como contextualizações excessivamente formais, repetições estruturais, explicações decorativas, conclusões previsíveis ou linguagem artificialmente otimista. O resultado deve soar natural, técnico e consistente com a escrita de pesquisadores experientes envolvidos diretamente no contexto investigado.
+
+Preserve limitações, dificuldades, ambiguidades, ameaças à validade e resultados parciais observados no estudo. Não amplifique artificialmente impacto, inovação ou generalização dos resultados. O texto deve transmitir rigor, honestidade científica e autenticidade metodológica.
+
+Ao finalizar a revisão, o texto deve apresentar maior fluidez, profundidade técnica, coerência argumentativa e maturidade acadêmica, mantendo naturalidade e fidelidade ao trabalho original.
