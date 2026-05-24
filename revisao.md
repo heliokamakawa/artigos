@@ -1,4 +1,4 @@
-Prompt 01 
+### Prompt 01 
 
 Revise as introduções de cada tópico. A ideia não é “criar introduções" com o texto artificial e previsível - é preciso justamente abandonar o padrão acadêmico genérico.
 o texto não deve “anunciar” o tópico;
@@ -24,7 +24,7 @@ mas sim como um relato maduro entre pesquisadores/praticantes da área.
 
 
 
-Prompt 02
+### Prompt 02
 Revise para melhorar
 transições invisíveis entre parágrafos;
 continuidade argumentativa;
@@ -35,7 +35,7 @@ e impedir aquele efeito típico de IA:
 
 
 
-Prompt 03
+### Prompt 03
 
 Revise o texto para melhorar:
 conectivos excessivamente escolares;
@@ -44,12 +44,12 @@ reexplicação do que o leitor da área já sabe;
 e “enchimento acadêmico”.
 
 
-Prompt 04
+### Prompt 04
 Revise os parágrafos em que “cada parágrafo deve justificar sua existência tecnicamente”.
 A melhoria não deve ser lexical, deve ser estrutural, argumentativa e de densidade científica.
 
 
-pronto 05
+### pronto 05
 Refine o texto acadêmico buscando maior maturidade científica, densidade técnica e naturalidade argumentativa. Preserve integralmente o contexto, autoria, evidências e significado original do conteúdo. Não transforme o texto em algo artificialmente rebuscado, promocional ou genérico.
 
 Ao revisar cada seção, evite introduções estruturais padronizadas ou frases que apenas anunciam o conteúdo do tópico. A entrada dos parágrafos deve ocorrer já dentro do contexto técnico relevante, incorporando informações úteis, implicações, evidências, decisões metodológicas, limitações ou comportamentos observados. O texto deve iniciar cada tópico de forma contextualizada e intelectualmente contínua, sem parecer segmentado artificialmente.
@@ -67,3 +67,42 @@ Evite padrões típicos de textos gerados por IA, como contextualizações exces
 Preserve limitações, dificuldades, ambiguidades, ameaças à validade e resultados parciais observados no estudo. Não amplifique artificialmente impacto, inovação ou generalização dos resultados. O texto deve transmitir rigor, honestidade científica e autenticidade metodológica.
 
 Ao finalizar a revisão, o texto deve apresentar maior fluidez, profundidade técnica, coerência argumentativa e maturidade acadêmica, mantendo naturalidade e fidelidade ao trabalho original.
+
+
+
+
+###  pronto 06
+a retomada sem objetivo e clareza do respectivo tópico e não necessariamente na retomada.. poderia ser uma retomada objetiva específica do tópico
+O problema NÃO é:
+
+retomar conceitos.
+
+Paper bom frequentemente:
+
+reapresenta conceitos;
+reconecta argumentos;
+reancora leitura;
+mantém coerência temática.
+
+Especialmente em artigos:
+
+conceituais,
+qualitativos,
+interpretativos.
+O problema real é outro
+A retomada precisa:
+avançar;
+refinar;
+reposicionar;
+operacionalizar;
+ou mudar o nível analítico.
+
+Quando ela apenas:
+
+repete;
+reafirma;
+reforça sem acrescentar,
+surge sensação de:
+redundância;
+autodefesa;
+lentidão.
