@@ -106,3 +106,28 @@ surge sensação de:
 redundância;
 autodefesa;
 lentidão.
+
+### prompt 
+
+O método agora começa pelo fenômeno concreto
+
+Antes:
+
+havia muito enquadramento;
+muito metadiscurso;
+muita mediação linguística.
+
+Agora:
+
+“O estudo analisou uma edição do CodeChallenge...”
+
+Isso é MUITO melhor.
+
+Porque:
+
+sujeito claro;
+ação clara;
+caso claro;
+contexto claro.
+
+Sem rodeio.
