@@ -131,3 +131,7 @@ caso claro;
 contexto claro.
 
 Sem rodeio.
+
+# Prompt 
+revise frases para que fiquem menos defensivas/metadiscursivas e mais afirmações objetivas baseadas no caso.
+deixe a escrita mais direta e madura agora, removendo metacomentários defensivos e mantendo apenas formulações objetivas de resultado, limite e implicação.
