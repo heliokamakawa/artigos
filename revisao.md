@@ -137,7 +137,7 @@ revise frases para que fiquem menos defensivas/metadiscursivas e mais afirmaçõ
 deixe a escrita mais direta e madura agora, removendo metacomentários defensivos e mantendo apenas formulações objetivas de resultado, limite e implicação.
 
 - reduzir interpretações impressionistas, oprtando por abertura direta: discute resultados à luz dos eixos teóricos, convergências, limites e implicações.
-- em método: remover metadiscurso excessivo; e deixar descrição com clareza operacional; não ter excessos de explicação metodológica (não ser defenciso); deixa parte do rigor emergir da própria estrutura.
+- em método: remover metadiscurso excessivo; e deixar descrição com clareza operacional; não ter excessos de explicação metodológica (não ser defenciso); deixa parte do rigor emergir da própria estrutura. não ter autojustificação de rigor” e deixar o rigor aparecer pelo desenho, pelos dados e pela estrutura do texto.
 - em Resultados, evitar formulação metadiscursiva por redação factual e simples.
 - Discussão, Reduzir frases autojustificativas e deixei foco no que foi observado + aderência à literatura.
 - escrever para ficar objetiva: hipótese prática do caso operacionalizada em critérios observáveis; dependência de contexto.
