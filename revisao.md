@@ -135,3 +135,10 @@ Sem rodeio.
 # Prompt 
 revise frases para que fiquem menos defensivas/metadiscursivas e mais afirmações objetivas baseadas no caso.
 deixe a escrita mais direta e madura agora, removendo metacomentários defensivos e mantendo apenas formulações objetivas de resultado, limite e implicação.
+
+- reduzir interpretações impressionistas, oprtando por abertura direta: discute resultados à luz dos eixos teóricos, convergências, limites e implicações.
+- em Resultados, evitar formulação metadiscursiva por redação factual e simples.
+- Discussão, Reduzir frases autojustificativas e deixei foco no que foi observado + aderência à literatura.
+- escrever para ficar objetiva: hipótese prática do caso operacionalizada em critérios observáveis; dependência de contexto.
+- em Ameaças à validade, tirar frase “para reduzir esses riscos...” e reescrever em tom técnico-descritivo sobre fontes e limites do caso.
+- Conclusão, Manter cautela metodológica, mas removi formulação excessivamente defensiva (“sem pretensão de eficácia geral”), trocando por utilidade para contextos semelhantes.
