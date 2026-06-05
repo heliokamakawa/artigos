@@ -119,6 +119,10 @@ A eliminação de frases introdutórias não deve comprometer a legibilidade. Qu
 
 Em geral, a abertura de uma seção deve priorizar conteúdo científico, evidências, observações, decisões metodológicas, características do contexto investigado ou implicações dos achados, evitando explicações sobre a própria estrutura do artigo.
 
+Evite introduções que apenas anunciem a estrutura do texto. Entretanto, mantenha breves parágrafos de contextualização quando forem necessários para justificar a presença da seção, explicar sua organização ou explicitar sua relação com os objetivos do estudo. A abertura deve agregar significado ao leitor, e não apenas informar que determinado conteúdo será apresentado.
+
+Apresentar não é o problema. O problema é apresentar sem acrescentar significado
+
 ---
 
 ## Maturidade acadêmica
