@@ -95,10 +95,9 @@ Evite:
 * parágrafos anunciando o que será dito.
 
 ---
-
 ## Abertura de tópicos e seções
 
-Evite construções como:
+Evite iniciar tópicos e seções com construções metadiscursivas que apenas anunciam a estrutura do texto, como:
 
 * “Nesta seção...”;
 * “A seguir...”;
@@ -108,16 +107,17 @@ Evite construções como:
 * “Com base nisso...”;
 * “O próximo passo foi...”.
 
-Os tópicos devem começar já dentro do contexto técnico relevante, trazendo:
+Sempre que possível, inicie a seção diretamente pelo fenômeno, contexto, procedimento, evidência, decisão, dificuldade, comportamento observado ou implicação que será discutido.
 
-* evidências;
-* decisões;
-* dificuldades;
-* comportamentos observados;
-* implicações;
-* características do contexto investigado.
+A primeira frase deve acrescentar informação relevante ao estudo, e não apenas informar ao leitor o que será apresentado na sequência.
 
-A abertura deve parecer continuação natural do raciocínio anterior.
+Os tópicos devem começar já dentro do contexto técnico relevante, trazendo elementos concretos da investigação, do problema estudado, do método empregado ou dos resultados obtidos.
+
+A abertura da seção deve funcionar como continuação natural do raciocínio desenvolvido anteriormente, preservando a fluidez argumentativa do texto e evitando rupturas artificiais entre os tópicos.
+
+A eliminação de frases introdutórias não deve comprometer a legibilidade. Quando necessário, utilize uma breve contextualização para orientar o leitor, desde que ela agregue informação relevante ao texto e não apenas descreva sua organização.
+
+Em geral, a abertura de uma seção deve priorizar conteúdo científico, evidências, observações, decisões metodológicas, características do contexto investigado ou implicações dos achados, evitando explicações sobre a própria estrutura do artigo.
 
 ---
 
