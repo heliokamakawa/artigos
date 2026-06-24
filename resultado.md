@@ -1,6 +1,5 @@
 # Prompt — Fortalecimento de Episódios e Dados em Relatos Qualitativos / Estudos de Caso
 
-> Cole este bloco no início de uma conversa com um agente de IA, sobre qualquer artigo de **relato de experiência** ou **estudo de caso qualitativo** que você esteja editando (ex.: trilhas de Educação ou Relatos de Experiência — SBQS, SBES, CBIE, etc.).
 
 ---
 
