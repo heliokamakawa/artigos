@@ -254,6 +254,131 @@ Apresentar apenas quando necessário.
 
 ---
 
+Citação sem função
+Verificar
+
+A referência sustenta explicitamente alguma afirmação da frase?
+
+Problema
+
+A frase descreve apenas o próprio estudo (método, projeto, resultados, figuras, tabelas, etapas, decisões dos autores etc.) e a citação é inserida sem justificar nenhuma afirmação.
+
+Ação
+Identificar a afirmação que a referência deveria sustentar.
+Caso nenhuma afirmação dependa da literatura, recomendar a remoção da citação.
+
+
+### Contribuição própria × conhecimento da literatura
+Verificar
+
+Está claro quais informações pertencem ao presente estudo e quais são provenientes da literatura?
+
+Problema
+
+A redação mistura decisões dos autores com conceitos, métodos ou recomendações da literatura, fazendo parecer que toda a frase é sustentada pela referência.
+
+Ação
+
+Separar explicitamente:
+
+contribuição do artigo;
+conhecimento previamente estabelecido.
+
+Quando necessário, sugerir reformulação para deixar essa distinção evidente.
+
+### Escopo da referência
+Verificar
+
+A referência realmente sustenta a parte da frase onde foi inserida?
+
+Problema
+
+A citação aparece ao final de uma frase contendo diversas afirmações, impossibilitando identificar exatamente qual delas está sendo referenciada.
+
+Ação
+
+Indicar qual trecho é sustentado pela literatura e, se necessário, recomendar reposicionar ou reescrever a frase.
+
+4. Atribuição incorreta
+Verificar
+
+A redação faz parecer que uma decisão específica do estudo foi retirada da literatura?
+
+Exemplos comuns
+número de etapas;
+checkpoints;
+instrumentos criados pelos autores;
+rubricas;
+organização do experimento;
+fluxo do projeto.
+Ação
+
+Se a decisão pertence ao presente estudo, a literatura deve sustentar apenas o princípio metodológico, nunca a decisão específica.
+
+### Citações decorativas
+Verificar
+
+A referência foi inserida apenas porque o assunto é semelhante?
+
+Problema
+
+A citação não adiciona fundamentação científica à frase.
+
+Ação
+
+Recomendar a remoção.
+
+### Conceitos versus aplicação
+Verificar
+
+A referência define um conceito ou está sendo utilizada para justificar um resultado obtido pelos autores?
+
+Problema
+
+A literatura é utilizada para validar resultados do próprio estudo.
+
+Ação
+
+Separar:
+
+definição do conceito (literatura);
+aplicação ou resultado observado (presente estudo).
+
+### Figuras, tabelas e descrições do estudo
+Verificar
+
+A citação foi inserida em legendas ou descrições que pertencem exclusivamente ao presente trabalho?
+
+Problema
+
+A referência transmite a impressão de que a figura, tabela ou processo foi extraído da literatura.
+
+Ação
+
+Remover a citação, exceto quando a figura ou tabela for adaptada ou reproduzida de outra fonte.
+
+Pergunta obrigatória para cada citação
+
+Para cada referência encontrada, responder objetivamente:
+
+O que exatamente esta referência sustenta nesta frase?
+
+Se a resposta não puder ser formulada de maneira objetiva, considerar a citação potencialmente inadequada.
+
+Critério final
+
+Uma citação é considerada adequada quando:
+
+possui uma função explícita;
+sustenta uma afirmação específica;
+não gera ambiguidade sobre autoria das contribuições;
+distingue claramente conhecimento da literatura das contribuições do presente estudo;
+está posicionada exatamente onde a informação referenciada é utilizada.
+
+Caso qualquer um desses critérios não seja atendido, registrar o problema e sugerir uma correção.
+
+---
+
 ## Restrições
 
 * Não inventar conteúdo.
